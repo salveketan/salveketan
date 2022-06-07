@@ -3,9 +3,9 @@
 
 
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ketan Salve</h1>
+<!-- <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ketan Salve</h1> -->
 
-
+<h1>I'm Ketan Salve</h1>
 
 <div align="center">
   <img src ="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" />
