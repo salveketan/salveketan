@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate for `dev Projects`
 
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what i have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time debugging my code.
 
